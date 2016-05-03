@@ -33,6 +33,7 @@ function fish_prompt
   set -g __fish_git_prompt_color_stagedstate 50fa7b
   set -g __fish_git_prompt_color_dirtystate ffb86c
   set -g __fish_git_prompt_color_untrackedfiles ff5555
+  set -g __fish_git_prompt_color_cleanstate 50fa7b
   set -g __fish_git_prompt_showstagedstate true
   set -g __fish_git_prompt_showdirtystate true
   set -g __fish_git_prompt_showuntrackedfiles true
