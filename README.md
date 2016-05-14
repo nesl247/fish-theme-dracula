@@ -14,8 +14,7 @@ This theme is based on/forked from the work by [hasanozgan](https://github.com/h
 
 #### Install
 
-##### Fundle
-Requires [Fundle](https://github.com/tuvistavie/fundle)
+##### [Fundle](https://github.com/tuvistavie/fundle)
 
 ```fish
 fundle plugin 'nesl247/fish-theme-dracula'
