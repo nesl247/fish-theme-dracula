@@ -15,6 +15,7 @@ function fish_prompt
     end
   end
 
+  # Configure colors for prompt
   set -l normal (set_color normal)
   set -l white (set_color FFFFFF)
   set -l turquoise (set_color 8be9fd)
@@ -23,6 +24,9 @@ function fish_prompt
   set -l blue (set_color 8be9fd)
   set -l limegreen (set_color 50fa7b)
   set -l purple (set_color bd93f9)
+
+  # Configure fish colors
+  set -g fish_color_error ff5555 --bold
 
   # Configure __fish_git_prompt
   set -g __fish_git_prompt_char_stateseparator ' '
