@@ -4,7 +4,7 @@
 [![Fish Shell Version](https://img.shields.io/badge/fish-v2.2.0-007EC7.svg?style=flat-square)](http://fishshell.com)
 
 ### About
-A [dracula](https://github.com/zenorocha/dracula-theme) themed version of [theme-lambda](https://github.com/hasonozgan/theme-lambda).
+A [dracula](https://github.com/zenorocha/dracula-theme) themed version of [theme-lambda](https://github.com/hasanozgan/theme-lambda).
 
 Original work by [hasanozgan](https://github.com/hasanozgan)/[theme-lambda](https://github.com/hasanozgan/theme-lambda).
 
